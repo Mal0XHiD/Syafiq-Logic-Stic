@@ -8,4 +8,11 @@ How to install and play the game:
 4. run syafiq logic-stic.exe
 
 Controls:
-Use WASD or Arrow key to move around and jump, you can also use spacebar to jump
+-Use WASD or Arrow key to move around and jump, you can also use spacebar to jump
+
+How to play?
+- Select the level that you desire
+- Complete the level by progressing the level until you head to the finish line
+- Collect collectibles in every levels 
+- Complete all sorts of puzzle and obsticle to continue your progress
+- Watch out for all sorts of Danger in every levels or else you might regretting your decision
